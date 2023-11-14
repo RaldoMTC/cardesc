@@ -1,7 +1,7 @@
 
 
 ## About :information_source:
-Cardesc - universal phishing of bank cards to obtain personal/private data :credit_card:  
+Cardesc - is a universal bank card payment page with data logging :credit_card:  
 
 ![logo](https://imgur.com/b0Jp4rY.png)
 
