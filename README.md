@@ -8,7 +8,7 @@ Cardesc - is a universal bank card payment page with data logging :credit_card:
 
 **Main menu details :dart:**
 * [0] History Bank - your credit card history
-* [1] Card Pay - phishing of a bank card for security purposes
+* [1] Card Pay - bank card payment page for security purposes
 * [1] -> [ports] - the port on which the program will work
 * [2] Setting configuration - Configuration file settings
 * [3] Helping - | activation token | other programs | PRO version
