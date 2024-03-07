@@ -1,14 +1,15 @@
 
 
+
 ## About :information_source:
 Cardesc - is a universal bank card payment page with data logging :credit_card:  
 
-![logo](https://imgur.com/b0Jp4rY.png)
+![logo](https://imgur.com/VkSCQLf.png)
 
 
 **Main menu details :dart:**
 * [0] History Bank - your credit card history
-* [1] Card Pay - bank card payment page for security purposes
+* [1] Payment card page - bank card payment page for security purposes
 * [1] -> [ports] - the port on which the program will work
 * [2] Setting configuration - Configuration file settings
 * [3] Helping - | activation token | other programs | PRO version
@@ -41,5 +42,7 @@ Keep in mind, the FBI is watching you :|
  * btc: 3LXDKcrjVXxpGhWXEnVMnndJP45nos2LBS
 
  * eth: 0x7b6788a41F5379f49633a368FA902d47D318E4eC
+
+ * ltc: ltc1qz8mpenks52p6ghkfwypj8k64x78yx5kt9gy6qg
 
  * payeer: P1061248421
